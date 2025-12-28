@@ -1,2 +1,2 @@
 [workspace]
-members = ["defining-structs"]
+members = ["associated","creating-structs","defining-structs"]
