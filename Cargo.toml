@@ -1,2 +1,2 @@
 [workspace]
-members = ["associated","creating-structs","defining-structs", "manipulating", "strings", "vectors", "vectors-values"]
+members = ["associated","creating-structs","defining-structs", "elements", "manipulating", "strings", "vectors", "vectors-values"]
