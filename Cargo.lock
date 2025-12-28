@@ -21,3 +21,11 @@ version = "0.1.0"
 [[package]]
 name = "strings"
 version = "0.1.0"
+
+[[package]]
+name = "vectors"
+version = "0.1.0"
+
+[[package]]
+name = "vectors-values"
+version = "0.1.0"
