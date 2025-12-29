@@ -1,2 +1,2 @@
 [workspace]
-members = ["associated","creating-structs","defining-structs", "elements", "enum-types", "enums", "manipulating", "strings", "vectors", "vectors-values"]
+members = ["associated","creating-structs","defining-structs", "elements", "enum-types", "enums", "manipulating", "match-enum", "option-enum", "strings", "vectors", "vectors-values"]

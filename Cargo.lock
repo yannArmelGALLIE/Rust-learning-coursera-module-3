@@ -31,6 +31,14 @@ name = "manipulating"
 version = "0.1.0"
 
 [[package]]
+name = "match-enum"
+version = "0.1.0"
+
+[[package]]
+name = "option-enum"
+version = "0.1.0"
+
+[[package]]
 name = "strings"
 version = "0.1.0"
 
