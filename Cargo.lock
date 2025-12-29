@@ -27,6 +27,10 @@ name = "enums"
 version = "0.1.0"
 
 [[package]]
+name = "enums-vectors"
+version = "0.1.0"
+
+[[package]]
 name = "manipulating"
 version = "0.1.0"
 
