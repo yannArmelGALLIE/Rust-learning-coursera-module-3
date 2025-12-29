@@ -19,6 +19,14 @@ name = "elements"
 version = "0.1.0"
 
 [[package]]
+name = "enum-types"
+version = "0.1.0"
+
+[[package]]
+name = "enums"
+version = "0.1.0"
+
+[[package]]
 name = "manipulating"
 version = "0.1.0"
 
